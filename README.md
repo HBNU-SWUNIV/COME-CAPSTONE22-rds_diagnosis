@@ -25,14 +25,15 @@
     - 시각화해서 의료 보조도구로서 활용할 수 있고 모델의 결과 분석 및 설명
     
 ## Case Study
-  - ### 삽관 영역 제거에 따른 가중치 시각화 비교
-  <img width="480" alt="image" src="https://github.com/HBNU-SWUNIV/COME-CAPSTONE22-rds_diagnosis/blob/main/004%20Pictures/Compare_Visualize.png">
+  - ### 삽관 영역 제거에 따른 가중치 시각화 비교 <br>
+  ![image](https://github.com/HBNU-SWUNIV/COME-CAPSTONE22-rds_diagnosis/blob/main/004%20Pictures/Compare_Visualize.png)
   
   - ### Overview 
-  <img width="480" alt="image" src="https://github.com/HBNU-SWUNIV/COME-CAPSTONE22-rds_diagnosis/blob/main/004%20Pictures/Overview.png">
+  ![image](https://github.com/HBNU-SWUNIV/COME-CAPSTONE22-rds_diagnosis/blob/main/004%20Pictures/Overview.png)
   
   - ### 진단 프로그램 예시
-  <img width="480" alt="image" src="https://github.com/HBNU-SWUNIV/COME-CAPSTONE22-rds_diagnosis/blob/main/004%20Pictures/ex_program.png">
+  ![image](https://github.com/HBNU-SWUNIV/COME-CAPSTONE22-rds_diagnosis/blob/main/004%20Pictures/ex_program.png)
+
   
 ## Conclusion
 - ### 경제적 & 사회적 효과
