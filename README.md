@@ -1,7 +1,7 @@
 # 한밭대학교 컴퓨터공학과 RDS_Diagnosis팀
 
 **팀 구성**
-- 20191752 장어진 
+- 20191752 장어진 (팀장)
 - 20172614 조한용
 
 ## <u>Teamate</u> Project Background
