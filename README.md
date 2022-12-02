@@ -8,8 +8,11 @@
 - ### 필요성
   - RDS는 미숙아에게 흔하게 발생하며, 미숙아 사망 주요 원인 중 하나
   - 최근 고령산모, 시험관 시술 등의 이유로 미숙아와 조기 출산이 증가
-  
+  - RDS VS Non-RDS
+![image](https://user-images.githubusercontent.com/89440450/191407197-89c517fe-4717-4204-b322-a8c3b2436180.pn](https://github.com/HBNU-SWUNIV/COME-CAPSTONE22-rds_diagnosis/blob/main/004%20Pictures/RDS_or_NonRDS.png)
+ 
 - ### 기존 해결책의 문제점
+![image](https://user-images.githubusercontent.com/89440450/191407197-89c517fe-4717-4204-b322-a8c3b2436180.pn](https://github.com/HBNU-SWUNIV/COME-CAPSTONE22-rds_diagnosis/blob/main/004%20Pictures/Problem.png)
   - 신생아는 아주 어리고 폐 영역이 작아 X-ray 영상의 일부만이 관심 영역
   - 신생아 특성상 관심 영역이 일관된 위치와 방향 X 
   - X-ray 영상에 다양한 기계 장치가 포함되어 영향을 미칠 수 있음
