@@ -23,10 +23,14 @@
     
 ## Case Study
   - ### 삽관 영역 제거에 따른 가중치 시각화 비교
+  <img width="480" alt="image" src="https://github.com/HBNU-SWUNIV/COME-CAPSTONE22-rds_diagnosis/blob/main/004%20Pictures/Compare_Visualize.png">
   
   - ### Overview 
+  <img width="480" alt="image" src="https://github.com/HBNU-SWUNIV/COME-CAPSTONE22-rds_diagnosis/blob/main/004%20Pictures/Overview.png">
   
   - ### 진단 프로그램 예시
+  <img width="480" alt="image" src="https://github.com/HBNU-SWUNIV/COME-CAPSTONE22-rds_diagnosis/blob/main/004%20Pictures/ex_program.png">
+  
 ## Conclusion
 - ### 경제적 & 사회적 효과
   - 전 세계 의료용 인공지능 시장은 2026년에 시장 규모가 450억 달러에 이르며, 연평균 40% 이상의 성장률을 보여 더 커지는 시장인 만큼 연구단계에서 끝나는 것이 아닌 실제 사업화를 진행할 수 있음
