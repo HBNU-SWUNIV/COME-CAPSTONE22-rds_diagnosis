@@ -49,7 +49,9 @@
 - ### 한밭대학교 창의적 종합설계 경진대회 은상 수상
 - ### K7U Belt 캡스톤 경진대회 장려상 수상
 - ### 한밭대학교 정보기술대학 작품전시회 은상 수상 (총장상)
-- ### Poster V1 - 학과 작품 전시회 포스터
+- ### Poster V1 
+  - 학과 작품 전시회 포스터
 ![image](https://github.com/HBNU-SWUNIV/COME-CAPSTONE22-rds_diagnosis/blob/main/004%20Pictures/%ED%95%99%EA%B3%BC%20%EC%9E%91%ED%92%88%EC%A0%84%EC%8B%9C%ED%9A%8C%20%ED%8F%AC%EC%8A%A4%ED%84%B0.png)
-- ### Poster V2 - 한밭대학교 창의적 종합설계 경진대회 포스터
+- ### Poster V2 
+  - 한밭대학교 창의적 종합설계 경진대회 포스터
 ![image](https://github.com/HBNU-SWUNIV/COME-CAPSTONE22-rds_diagnosis/blob/main/004%20Pictures/4.%20%ED%8C%90%EB%84%AC%EC%A0%9C%EC%9E%91%20%EC%96%91%EC%8B%9D_%EC%B5%9C%EC%A2%85_1.png)
